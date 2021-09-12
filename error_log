@@ -1,0 +1,36 @@
+[25-Jul-2019 21:21:11 UTC] PHP Notice:  Undefined index: adim in /home/scriptse/public_html/kur.php on line 8
+[25-Jul-2019 21:21:31 UTC] PHP Warning:  touch(): Unable to create file ayarlar/baglan.php because No such file or directory in /home/scriptse/public_html/install.php on line 145
+[25-Jul-2019 21:21:46 UTC] PHP Warning:  touch(): Unable to create file ayarlar/baglan.php because No such file or directory in /home/scriptse/public_html/install.php on line 145
+[25-Jul-2019 21:23:10 UTC] PHP Notice:  Undefined index: adim in /home/scriptse/public_html/install.php on line 8
+[25-Jul-2019 21:23:48 UTC] PHP Notice:  Undefined index: adim in /home/scriptse/public_html/install.php on line 8
+[25-Jul-2019 21:24:02 UTC] PHP Notice:  Undefined index: adim in /home/scriptse/public_html/install.php on line 8
+[25-Jul-2019 21:24:46 UTC] PHP Warning:  touch(): Unable to create file ayarlar/baglan.php because No such file or directory in /home/scriptse/public_html/install.php on line 145
+[25-Jul-2019 21:27:26 UTC] PHP Notice:  Undefined index: adim in /home/scriptse/public_html/install.php on line 8
+[25-Jul-2019 21:27:59 UTC] PHP Warning:  include(Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/girisyap.php on line 3
+[25-Jul-2019 21:27:59 UTC] PHP Warning:  include(Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/girisyap.php on line 3
+[25-Jul-2019 21:27:59 UTC] PHP Warning:  include(): Failed opening 'Websend.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scriptse/public_html/girisyap.php on line 3
+[25-Jul-2019 21:28:05 UTC] PHP Warning:  include(Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/girisyap.php on line 3
+[25-Jul-2019 21:28:05 UTC] PHP Warning:  include(Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/girisyap.php on line 3
+[25-Jul-2019 21:28:05 UTC] PHP Warning:  include(): Failed opening 'Websend.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scriptse/public_html/girisyap.php on line 3
+[25-Jul-2019 21:28:16 UTC] PHP Warning:  include(Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/girisyap.php on line 3
+[25-Jul-2019 21:28:16 UTC] PHP Warning:  include(Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/girisyap.php on line 3
+[25-Jul-2019 21:28:16 UTC] PHP Warning:  include(): Failed opening 'Websend.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scriptse/public_html/girisyap.php on line 3
+[25-Jul-2019 21:29:52 UTC] PHP Warning:  include(websend/Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/krediyukle.php on line 2
+[25-Jul-2019 21:29:52 UTC] PHP Warning:  include(websend/Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/krediyukle.php on line 2
+[25-Jul-2019 21:29:52 UTC] PHP Warning:  include(): Failed opening 'websend/Websend.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scriptse/public_html/krediyukle.php on line 2
+[25-Jul-2019 21:29:56 UTC] PHP Warning:  include(websend/Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/mobilodeme.php on line 2
+[25-Jul-2019 21:29:56 UTC] PHP Warning:  include(websend/Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/mobilodeme.php on line 2
+[25-Jul-2019 21:29:56 UTC] PHP Warning:  include(): Failed opening 'websend/Websend.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scriptse/public_html/mobilodeme.php on line 2
+[25-Jul-2019 21:30:06 UTC] PHP Warning:  include(websend/Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/mobilodeme.php on line 2
+[25-Jul-2019 21:30:06 UTC] PHP Warning:  include(websend/Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/mobilodeme.php on line 2
+[25-Jul-2019 21:30:06 UTC] PHP Warning:  include(): Failed opening 'websend/Websend.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scriptse/public_html/mobilodeme.php on line 2
+[25-Jul-2019 21:30:09 UTC] PHP Warning:  include(websend/Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/krediyukle.php on line 2
+[25-Jul-2019 21:30:09 UTC] PHP Warning:  include(websend/Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/krediyukle.php on line 2
+[25-Jul-2019 21:30:09 UTC] PHP Warning:  include(): Failed opening 'websend/Websend.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scriptse/public_html/krediyukle.php on line 2
+[25-Jul-2019 21:30:10 UTC] PHP Warning:  include(websend/Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/kartodeme.php on line 2
+[25-Jul-2019 21:30:10 UTC] PHP Warning:  include(websend/Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/kartodeme.php on line 2
+[25-Jul-2019 21:30:10 UTC] PHP Warning:  include(): Failed opening 'websend/Websend.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scriptse/public_html/kartodeme.php on line 2
+[25-Jul-2019 21:30:16 UTC] PHP Warning:  include(websend/Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/kartodeme.php on line 2
+[25-Jul-2019 21:30:16 UTC] PHP Warning:  include(websend/Websend.php): failed to open stream: No such file or directory in /home/scriptse/public_html/kartodeme.php on line 2
+[25-Jul-2019 21:30:16 UTC] PHP Warning:  include(): Failed opening 'websend/Websend.php' for inclusion (include_path='.:/opt/alt/php71/usr/share/pear') in /home/scriptse/public_html/kartodeme.php on line 2
+[25-Jul-2019 21:30:32 UTC] PHP Notice:  Undefined index: adim in /home/scriptse/public_html/install.php on line 8
